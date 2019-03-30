@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: For taking notes, creating arcticles 
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: This is my own space, not recommended
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://geekbynights.github.io
 
 # Jekyll configuration
 
@@ -36,24 +36,8 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
-  stackexchange:
-  linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
-  pinterest:
-  weibo:
-  google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  name: Geek by Nights
+  avatar: blog-avatar.png
+  email: geekbynights@gmail.com
+  disqus-shortname: geekbynights
+  github: geekbynights
